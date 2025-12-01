@@ -1,125 +1,134 @@
-<!-- HEADER BANNER -->
+<!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Munagala%20Chandu&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=40A4FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Munagala+Chandu!;AI%2FML+Engineer+%7C+Backend+Developer;Computer+Vision+%26+RAG+Practitioner;Building+Scalable+ML+Systems+%F0%9F%9A%80" />
 </p>
 
-<div align="center">
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" width="100%">
 
-### AI/ML Engineer • Backend Developer • Computer Vision Practitioner  
-Turning ideas into end-to-end systems with ML, APIs, and full-stack integration.
+---
+
+# <div align="center">✨ About Me</div>
+
+<div align="center">
+  
+🔹 AI/ML Engineering Student @ DSCE  
+🔹 Strong in **backend engineering**, **ML pipelines**, **API development**  
+🔹 Built full ML platforms using **Flask**, **React**, **YOLOv8**, **PyTorch**  
+🔹 Hackathon achiever with multiple wins + national finals  
+🔹 Passionate about **AI agents**, **vision systems**, and **clean architectures**  
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-I'm an **AI/ML engineering student** with strong experience in:
-
-- Backend development & API engineering  
-- Building ML pipelines (data → model → deployment)  
-- Applying computer vision with YOLOv8 & PyTorch  
-- Creating full-stack ML platforms (Flask / MERN)  
-- Developing production-ready solutions through hackathons  
-
-I focus on solving **real-world problems**, with clean engineering, scalability, and practical ML integration.
-
----
-
-# 🛠️ Skills (Aligned With Resume)
-
-### 🔹 **Languages**
-Python • C • C++ • JavaScript (ES6) • SQL • HTML • CSS
-
-### 🔹 **Technologies & Libraries**
-Flask • FastAPI • Node.js • Express.js • React • REST APIs  
-PyTorch • YOLOv8 • OpenCV • scikit-learn • NumPy • Pandas
-
-### 🔹 **Databases & Tools**
-MySQL • MongoDB  
-Git • GitHub • Postman • VS Code • UiPath • PowerBI • Colab • Jupyter • Figma
-
----
-
-# 🚀 Projects (Exactly Your Resume Projects)
-
-## 📌 **Varunet – Ocean Oil Spill Detection Platform | Flask, React, MySQL, YOLOv8**  
-Built an end-to-end satellite-image detection system leveraging a YOLOv8 + PyTorch pipeline for accurate spill classification.  
-Implemented secure authentication & scalable file-handling workflows enabling smooth high-resolution image submissions.  
-
-🔗 **Repo:** https://github.com/munagalachandu/varunet
-
----
-
-## 📌 **Anvaya – Department Events Management Tool | MERN Stack**  
-Developed secure, role-based REST APIs powering event creation, approvals, and real-time updates.  
-Implemented authentication, data modeling, and backend logic ensuring smooth event workflows.  
-
-🔗 **Repo:** https://github.com/munagalachandu/Anvaya-Events
-
----
-
-# 🏆 Achievements (Exactly Matching Resume)
-
-### 🥈 **Udaya'25 | 2nd Place – Healthcare Domain**  
-Built **Sapphire**, an ML + RAG mental health platform.
-
-### 🥈 **Hacktopus'25 | 2nd Place Winner**  
-Built **SkillSetGo**, an AI-powered interview preparation assistant.
-
-### 🎖️ **CodeRed'25 | Top 50 out of 2500+ Teams**  
-Built **EqualEdge**, a voice-enabled platform supporting differently-abled learners.
-
-### 🌟 **National Hackathon Finalist**  
-**Mumbai Hacks'25**, **AmBITion'25**, **Hackademia'25**
-
----
-
-# 📊 GitHub Stats
-
+# ⚡ **Tech Stack**  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=munagalachandu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&theme=tokyonight&hide_border=true" height="160" />
+### 🧠 **Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" height="50"/>
 
-<br/>
+### 🔥 **Backend & Frameworks**
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react" height="50"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munagalachandu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+### 🤖 **ML & CV**
+<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-E34234?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### 🗄️ **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+
+### 🛠️ **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50"/>
 
 </div>
 
 ---
 
-# 🎯 Leadership & Activities
+# 🛰️ **Highlighted Projects (Glow Cards)**
 
-- **Design Team Member**, TCC – AI/ML Dept.  
-- **Member**, CodeZero (Department Coding Club)  
-- **Editor**, Monthly Department Newsletter  
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+### 🚢 **Varunet – Ocean Oil Spill Detection | YOLOv8 + Flask + React**
+> End-to-end satellite image detection platform using YOLOv8 + PyTorch  
+> Secure auth, scalable file handling, optimized submission pipeline  
+
+🔗 https://github.com/munagalachandu/varunet
 
 ---
 
-# 🌱 Currently Exploring
-- Agentic AI & LLM-driven workflows  
-- MERN Stack for full-stack apps  
-- ML deployment + optimization  
-- Efficient data pipelines  
+### 📅 **Anvaya – Event Management System | MERN**
+> Role-based event creation, workflows, and approval architecture  
+> Designed backend logic + REST APIs for smooth faculty–student operations  
+
+🔗 https://github.com/munagalachandu/Anvaya-Events
 
 ---
 
-# 🔗 Connect With Me
+# 🏆 **Achievements (Animated Tiles)**
 
-<p align="left">
-<a href="https://www.linkedin.com/in/munagala-chandu"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-<a href="mailto:munagalachanduu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
-<a href="https://github.com/munagalachandu"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
-</p>
+<div align="center">
+
+| 🥈 Udaya’25 | 🥈 Hacktopus’25 | 🎖️ CodeRed’25 | 🌟 National Finalist |
+|------------|----------------|----------------|---------------------|
+| 2nd – Healthcare | 2nd Place | Top 50 / 2500+ | Mumbai Hacks • amBITion • Hackademia |
+
+</div>
+
+---
+
+# 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=munagalachandu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munagalachandu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+# 🚀 **What I'm Exploring Now**
+- Agentic AI + LLM-driven workflows  
+- ML deployment optimization  
+- MERN for full-stack ML apps  
+- High-performance inference engines  
+
+---
+
+# 🔗 **Connect with Me**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/munagala-chandu">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="mailto:munagalachanduu@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+<a href="https://github.com/munagalachandu">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
+
+<img src="https://profile-counter.glitch.me/munagalachandu/count.svg" />
 
 ### 🧠 *“Build what matters. Ship what lasts.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 
 </div>
