@@ -1,132 +1,125 @@
-<!-- Banner -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A6FF&size=32&center=true&vCenter=true&width=900&lines=Hey+there+👋,+I'm+Chandu+Munagala;AI+%26+ML+Engineer;Backend+Developer;Computer+Vision+%26+RAG+Enthusiast;Hackathon+Winner+%26+Finalist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Munagala%20Chandu&fontSize=40&fontColor=ffffff" />
 </p>
+
+<div align="center">
+
+### AI/ML Engineer • Backend Developer • Computer Vision Practitioner  
+Turning ideas into end-to-end systems with ML, APIs, and full-stack integration.
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Developer-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-E34F26?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+# 🧠 About Me
+
+I'm an **AI/ML engineering student** with strong experience in:
+
+- Backend development & API engineering  
+- Building ML pipelines (data → model → deployment)  
+- Applying computer vision with YOLOv8 & PyTorch  
+- Creating full-stack ML platforms (Flask / MERN)  
+- Developing production-ready solutions through hackathons  
+
+I focus on solving **real-world problems**, with clean engineering, scalability, and practical ML integration.
 
 ---
 
-# 🚀 About Me
+# 🛠️ Skills (Aligned With Resume)
 
-- 🎓 B.E. in **Artificial Intelligence & Machine Learning @ DSCE**
-- 🧠 Build end-to-end systems — ML pipelines → APIs → full-stack integration  
-- 🥈 **2× Hackathon Winner** (Udaya’25, Hacktopus’25)  
-- 🎯 **Finalist:** Mumbai Hacks'25 • amBITion'25 • Hackademia'25  
-- 👀 Passionate about **Computer Vision, Agentic AI & Backend Engineering**
-- 🤝 Open to collaborations on ML, CV, Agents, APIs  
-- ⚡ Fun fact: *Debugging makes me stronger.*
+### 🔹 **Languages**
+Python • C • C++ • JavaScript (ES6) • SQL • HTML • CSS
 
----
+### 🔹 **Technologies & Libraries**
+Flask • FastAPI • Node.js • Express.js • React • REST APIs  
+PyTorch • YOLOv8 • OpenCV • scikit-learn • NumPy • Pandas
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react" />
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,figma" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
+### 🔹 **Databases & Tools**
+MySQL • MongoDB  
+Git • GitHub • Postman • VS Code • UiPath • PowerBI • Colab • Jupyter • Figma
 
 ---
 
-# 🏆 Achievements
+# 🚀 Projects (Exactly Your Resume Projects)
 
-- 🥈 **2nd Place – Udaya’25 (Healthcare AI)**  
-- 🥈 **2nd Place – Hacktopus’25**  
-- 🎖️ **Top 50 / 2500+ Teams – CodeRed’25**  
-- 🎯 Finalist at **Mumbai Hacks’25**, **amBITion’25**, **Hackademia’25**
+## 📌 **Varunet – Ocean Oil Spill Detection Platform | Flask, React, MySQL, YOLOv8**  
+Built an end-to-end satellite-image detection system leveraging a YOLOv8 + PyTorch pipeline for accurate spill classification.  
+Implemented secure authentication & scalable file-handling workflows enabling smooth high-resolution image submissions.  
 
----
-
-# 🌟 Featured Projects
-
-### 🚢 **Varunet – Ocean Oil Spill Detection**
-YOLOv8 + PyTorch + Flask + React  
-Real-time satellite image classification for marine safety.  
 🔗 **Repo:** https://github.com/munagalachandu/varunet
 
 ---
 
-### 💬 **Sapphire – ML + RAG Mental Health Agent**
-Emotion-aware conversational agent using embeddings & RAG pipelines.  
-🔗 *(Private / Coming Soon)*
+## 📌 **Anvaya – Department Events Management Tool | MERN Stack**  
+Developed secure, role-based REST APIs powering event creation, approvals, and real-time updates.  
+Implemented authentication, data modeling, and backend logic ensuring smooth event workflows.  
 
----
-
-### 🎯 **SkillSetGo – AI Interview Prep**
-Personalized assessments and analytics for interview preparation.  
-🔗 **Repo:** https://github.com/munagalachandu/Skillsetgo
-
----
-
-### 📅 **Anvaya – Department Event Manager (MERN)**
-Role-based event workflow system for student–faculty management.  
 🔗 **Repo:** https://github.com/munagalachandu/Anvaya-Events
+
+---
+
+# 🏆 Achievements (Exactly Matching Resume)
+
+### 🥈 **Udaya'25 | 2nd Place – Healthcare Domain**  
+Built **Sapphire**, an ML + RAG mental health platform.
+
+### 🥈 **Hacktopus'25 | 2nd Place Winner**  
+Built **SkillSetGo**, an AI-powered interview preparation assistant.
+
+### 🎖️ **CodeRed'25 | Top 50 out of 2500+ Teams**  
+Built **EqualEdge**, a voice-enabled platform supporting differently-abled learners.
+
+### 🌟 **National Hackathon Finalist**  
+**Mumbai Hacks'25**, **AmBITion'25**, **Hackademia'25**
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munagalachandu&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&theme=tokyonight" height="180px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munagalachandu&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=munagalachandu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&theme=tokyonight&hide_border=true" height="160" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munagalachandu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
 
 ---
 
-# 🧠 Currently Exploring
-- Agentic AI & LLMs  
+# 🎯 Leadership & Activities
+
+- **Design Team Member**, TCC – AI/ML Dept.  
+- **Member**, CodeZero (Department Coding Club)  
+- **Editor**, Monthly Department Newsletter  
+
+---
+
+# 🌱 Currently Exploring
+- Agentic AI & LLM-driven workflows  
 - MERN Stack for full-stack apps  
-- CV model optimization  
-- ML deployment & scaling  
+- ML deployment + optimization  
+- Efficient data pipelines  
 
 ---
 
-# 🤝 Connect With Me
+# 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/munagala-chandu"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="mailto:munagalachanduu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-<a href="https://github.com/munagalachandu"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="https://www.linkedin.com/in/munagala-chandu"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+<a href="mailto:munagalachanduu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+<a href="https://github.com/munagalachandu"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
 </p>
 
 ---
 
-# 🧩 Quote I Live By
-> *“Work until your good becomes great — and your great becomes unstoppable.”*
+<div align="center">
 
----
+### 🧠 *“Build what matters. Ship what lasts.”*
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/munagalachandu/count.svg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
