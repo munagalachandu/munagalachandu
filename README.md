@@ -1,14 +1,5 @@
 <div align="center">
 
-# Munagala Chandu
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=AIML+Student;DSA+%7C+Computer+Vision;Building+Real+AI+Systems;Focused+on+Consistency" />
-
-</div>
-
----
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66FCF1,100:0B0C10&height=140&section=header&text=Chandu%20Reddy&fontSize=32&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=400&lines=AIML+Student;DSA+Enthusiast;Computer+Vision" />
@@ -82,7 +73,7 @@ Git • GitHub • Jupyter
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/munagala-chandu">
+  <a href="https://www.linkedin.com/in/Munagala-chandu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:munagalachanduu@gmail.com">
@@ -97,4 +88,3 @@ Git • GitHub • Jupyter
 </p>
 
 ---
-
