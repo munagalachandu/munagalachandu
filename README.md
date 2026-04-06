@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&lines=🎓+DSCE+%7C+AIML+Undergrad+%7C+CGPA+9.55;🔬+Computer+Vision+%26+ML+Systems;🧠+Applied+AI+%7C+Deep+Learning;💡+Building+real-world+AI+solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=DSCE+%7C+AIML+Undergrad+%7C+CGPA+9.55;Computer+Vision+%26+ML+Systems;Applied+AI+%7C+Deep+Learning;Building+real-world+AI+solutions" />
 
 </div>
 
@@ -21,7 +21,7 @@
 ## Work & Research
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=A5D6FF&center=true&vCenter=true&width=700&lines=💼+CV+Research+Intern+%40+DSCDS+%7C+Oct+2025–Feb+2026;🧠+Mask+R-CNN+(ResNet-50+FPN)+for+CBCT+Segmentation;📊+Achieved+>0.95+Mask+IoU+on+dental+scans;🦷+PCA-based+Implant+Recommendation+System;📏+±1mm+deviation+from+manual+measurements" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=A5D6FF&center=true&vCenter=true&width=700&lines=CV+Research+Intern+%40+DSCDS+%7C+Oct+2025-Feb+2026;Mask+R-CNN+(ResNet-50+FPN)+for+CBCT+Segmentation;Achieved+%3E0.95+Mask+IoU+on+dental+scans;PCA-based+Implant+Recommendation+System;+-1mm+deviation+from+manual+measurements" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Role-based authentication + REST APIs
 ## What I'm Working On
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=⚔️+Sharpening+DSA+for+competitive+programming+contests;🧠+Diving+deep+into+deep+learning+systems+%26+architectures;🔬+Building+stronger%2C+production-ready+AI+projects;📦+Exploring+model+compression+%26+deployment+pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=Sharpening+DSA+for+competitive+programming+contests;Diving+deep+into+deep+learning+systems+%26+architectures;Building+stronger%2C+production-ready+AI+projects;Preparing+for+ACM+ICPC+%26+ACM+Summer+School;Exploring+model+compression+%26+deployment+pipelines" />
 </p>
 
 ---
@@ -112,17 +112,11 @@ Role-based authentication + REST APIs
 
 <p align="center">
   <a href="https://codeforces.com/profile/munagalachandu">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=munagalachandu&theme=github_dark&force_username=true" height="170"/>
+    <img src="https://img.shields.io/badge/Codeforces-munagalachandu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://www.codechef.com/users/munagalachandu">
-    <img src="https://cp-logo.vercel.app/codechef/munagalachandu?logo=true" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/munagalachandu">
-    <img src="https://cp-logo.vercel.app/codeforces/munagalachandu?logo=true" height="28"/>
+    <img src="https://img.shields.io/badge/CodeChef-munagalachandu-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
