@@ -1,15 +1,20 @@
 <div align="center">
 
-# Chandu Reddy
+# Munagala Chandu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=AIML+Student;Computer+Vision;Full-Stack+Development" />
-
+ 
+![AIML](https://img.shields.io/badge/AIML-Student-0d1117?style=for-the-badge&labelColor=58a6ff&color=0d1117)
+![CV](https://img.shields.io/badge/Computer-Vision-0d1117?style=for-the-badge&labelColor=79c0ff&color=0d1117)
+![FullStack](https://img.shields.io/badge/Full--Stack-Development-0d1117?style=for-the-badge&labelColor=56d364&color=0d1117)
+ 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=DSCE+%7C+AIML+Undergrad+%7C+CGPA+9.55;Computer+Vision+%26+ML+Systems;Applied+AI+%7C+Deep+Learning;Building+real-world+AI+solutions" />
-
+ 
+![DSCE](https://img.shields.io/badge/DSCE-CGPA%209.55-0d1117?style=flat-square&labelColor=30363d&color=161b22)
+![CV](https://img.shields.io/badge/Computer%20Vision-%26%20ML%20Systems-0d1117?style=flat-square&labelColor=30363d&color=161b22)
+![AI](https://img.shields.io/badge/Applied%20AI-Deep%20Learning-0d1117?style=flat-square&labelColor=30363d&color=161b22)
+ 
 </div>
-
+ 
 
 
 <p align="center">
@@ -112,11 +117,11 @@ Role-based authentication + REST APIs
 
 <p align="center">
   <a href="https://codeforces.com/profile/munagalachandu">
-    <img src="https://img.shields.io/badge/Codeforces-munagalachandu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-munagalachandu8325?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/munagalachandu">
-    <img src="https://img.shields.io/badge/CodeChef-munagalachandu-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-munagalachandu832?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
