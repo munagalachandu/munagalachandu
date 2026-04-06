@@ -1,56 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66FCF1,100:0B0C10&height=140&section=header&text=Chandu%20Reddy&fontSize=32&fontColor=ffffff" />
+# Chandu Reddy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=420&lines=AIML+Student;Computer+Vision;Full-Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=AIML+Student;Computer+Vision;Full-Stack+Development" />
 
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---
+
 ## About
 
-AIML undergraduate at **Dayananda Sagar College of Engineering** (CGPA: 9.55) 
+AIML undergraduate at **Dayananda Sagar College of Engineering** (CGPA: 9.55)
 Interested in **computer vision, ML systems, and applied AI**.
-
-Worked on:
-
-* medical imaging
-* retrieval-augmented systems
-* full-stack applications
 
 ---
 
 ## Work & Research
 
 **Computer Vision Research Intern — Dayananda Sagar College of Dental Science**
-*Oct 2025 – Feb 2026* 
+*Oct 2025 – Feb 2026*
 
-* Trained **Mask R-CNN (ResNet-50 FPN)** for CBCT segmentation
-* Achieved **>0.95 mask IoU**
-* Built **PCA-based implant recommendation system**
-* Generated implant sizes with **±1 mm deviation**
+* Mask R-CNN (ResNet-50 FPN) for CBCT segmentation
+* > 0.95 mask IoU
+* PCA-based implant recommendation system
+* ±1 mm deviation from manual measurements
 
 ---
 
 ## Projects
 
-### 🦷 Mandibular Implant Planning
+**Mandibular Implant Planning**
 
 * CBCT segmentation using Mask R-CNN
-* Focus on evaluation (IoU, precision, recall, F1)
+* Focus: IoU, precision, recall, F1
 
-### 🧠 Sapphire — RAG Mental Health Assistant
+**Sapphire — RAG Mental Health Assistant**
 
 * FAISS + Sentence Transformers
 * ~90% top-5 retrieval relevance
 
-### 👕 Try-N-Thing — AR Virtual Try-On
+**Try-N-Thing — AR Virtual Try-On**
 
 * OpenCV + MediaPipe + CatVTON
-* Real-time accessory alignment
+* Real-time alignment
 
-### 🏫 Anvaya — Events Management Platform
+**Anvaya — Events Management Platform**
 
 * MERN stack
 * Role-based authentication + REST APIs
@@ -59,12 +59,12 @@ Worked on:
 
 ## Achievements
 
-* 🏆 **Ingeium** — Top 10 / 3700+ teams
-* 🥈 Udaya’25 — 2nd Place (Healthcare) 
-* 🥈 Hacktopus’25 — 2nd Place 
-* 🏆 CodeRed’25 — Top 50 / 2500+ teams 
-* Finalist: Mumbai Hacks, AmBITion, Hackademia 
-* 🎯 **Qualified GATE CS**
+* 🏆 Ingeium — Top 10 / 3700+ teams
+* 🥈 Udaya’25 — 2nd Place (Healthcare)
+* 🥈 Hacktopus’25 — 2nd Place
+* 🏆 CodeRed’25 — Top 50 / 2500+ teams
+* Finalist: Mumbai Hacks, AmBITion, Hackademia
+* 🎯 Qualified GATE CS
 
 ---
 
@@ -78,17 +78,10 @@ Worked on:
 
 ## Tech
 
-**Languages**
-C • C++ • Python • JavaScript • SQL 
-
-**ML / AI**
-PyTorch • OpenCV • scikit-learn • FAISS 
-
-**Development**
-React • Node.js • Express • Flask • FastAPI 
-
-**Tools**
-Git • MySQL • MongoDB • Postman • Jupyter 
+C • C++ • Python • JavaScript • SQL
+PyTorch • OpenCV • scikit-learn • FAISS
+React • Node.js • Express • Flask • FastAPI
+MySQL • MongoDB • Git • Postman • Jupyter
 
 ---
 
