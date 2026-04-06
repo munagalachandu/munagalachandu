@@ -60,7 +60,7 @@ Interested in **computer vision, ML systems, and applied AI**.
 ## Activity & Coding
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munagalachandu&show_icons=true&hide_border=true" height="150"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&hide_border=true" height="150"/>
 </p>
 
@@ -68,9 +68,7 @@ Interested in **computer vision, ML systems, and applied AI**.
   <img src="https://leetcard.jacoblin.cool/MunagalaChandu?theme=dark&font=Nunito&ext=contest" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/chandureddy832" height="60"/>
-</p>
+
 
 ---
 
