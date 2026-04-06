@@ -10,13 +10,13 @@
 
 </div>
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
----
+
 
 ## Work & Research
 
@@ -24,7 +24,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=A5D6FF&center=true&vCenter=true&width=700&lines=CV+Research+Intern+%40+DSCDS+%7C+Oct+2025-Feb+2026;Mask+R-CNN+(ResNet-50+FPN)+for+CBCT+Segmentation;Achieved+%3E0.95+Mask+IoU+on+dental+scans;PCA-based+Implant+Recommendation+System;+-1mm+deviation+from+manual+measurements" />
 </p>
 
----
+
 
 ## Projects
 
@@ -63,7 +63,7 @@ Role-based authentication + REST APIs
 </tr>
 </table>
 
----
+
 
 ## Achievements
 
@@ -76,15 +76,15 @@ Role-based authentication + REST APIs
 | 🎯 | GATE CS | Qualified |
 | 🎖️ | Mumbai Hacks · AmBITion · Hackademia | Finalist |
 
----
+
 
 ## What I'm Working On
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=Sharpening+DSA+for+competitive+programming+contests;Diving+deep+into+deep+learning+systems+%26+architectures;Building+stronger%2C+production-ready+AI+projects;Preparing+for+ACM+ICPC+%26+ACM+Summer+School;Exploring+model+compression+%26+deployment+pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=Sharpening+DSA+for+competitive+programming+contests;Diving+deep+into+deep+learning+systems+%26+architectures;Building+stronger%2C+production-ready+AI+projects;Exploring+model+compression+%26+deployment+pipelines" />
 </p>
 
----
+
 
 ## Tech
 
@@ -92,7 +92,7 @@ Role-based authentication + REST APIs
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,pytorch,opencv,react,nodejs,express,flask,fastapi,mysql,mongodb,git&perline=7" />
 </p>
 
----
+
 
 ## GitHub
 
@@ -102,7 +102,7 @@ Role-based authentication + REST APIs
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munagalachandu&hide_border=true&theme=github-dark-blue" height="160"/>
 </p>
 
----
+
 
 ## Competitive Programming
 
@@ -120,7 +120,7 @@ Role-based authentication + REST APIs
   </a>
 </p>
 
----
+
 
 ## Connect
 
