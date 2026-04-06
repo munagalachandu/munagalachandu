@@ -2,8 +2,11 @@
 
 # Munagala Chandu
 
-![DSCE](https://img.shields.io/badge/DSCE-CGPA%209.55-0d1117?style=flat-square&labelColor=30363d&color=161b22)
-![AI](https://img.shields.io/badge/Applied%20AI-Deep%20Learning-0d1117?style=flat-square&labelColor=30363d&color=161b22)
+<p align="center">
+  <img src="https://img.shields.io/badge/DSCE-CGPA%209.55-0A66C2?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20APIs-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
  
 </div>
  
