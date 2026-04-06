@@ -10,14 +10,14 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
----
+
 
 ## About
 
 AIML undergraduate at **Dayananda Sagar College of Engineering** (CGPA: 9.55)
 Interested in **computer vision, ML systems, and applied AI**.
 
----
+
 
 ## Work & Projects
 
@@ -45,7 +45,7 @@ Interested in **computer vision, ML systems, and applied AI**.
 
 * Role-based auth + REST APIs
 
----
+
 
 ## Achievements
 
@@ -55,7 +55,7 @@ Interested in **computer vision, ML systems, and applied AI**.
 * 🏆 CodeRed’25 — Top 50 / 2500+ teams
 * 🎯 Qualified GATE CS
 
----
+
 
 ## Activity & Coding
 
@@ -70,7 +70,7 @@ Interested in **computer vision, ML systems, and applied AI**.
 
 
 
----
+
 
 ## Tech
 
@@ -78,7 +78,7 @@ C • C++ • Python • JavaScript • SQL
 PyTorch • OpenCV • scikit-learn 
 React • Node.js • Express • Flask • FastAPI
 
----
+
 
 ## Connect
 
