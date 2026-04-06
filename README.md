@@ -2,15 +2,7 @@
 
 # Munagala Chandu
 
- 
-![AIML](https://img.shields.io/badge/AIML-Student-0d1117?style=for-the-badge&labelColor=58a6ff&color=0d1117)
-![CV](https://img.shields.io/badge/Computer-Vision-0d1117?style=for-the-badge&labelColor=79c0ff&color=0d1117)
-![FullStack](https://img.shields.io/badge/Full--Stack-Development-0d1117?style=for-the-badge&labelColor=56d364&color=0d1117)
- 
-<br/>
- 
 ![DSCE](https://img.shields.io/badge/DSCE-CGPA%209.55-0d1117?style=flat-square&labelColor=30363d&color=161b22)
-![CV](https://img.shields.io/badge/Computer%20Vision-%26%20ML%20Systems-0d1117?style=flat-square&labelColor=30363d&color=161b22)
 ![AI](https://img.shields.io/badge/Applied%20AI-Deep%20Learning-0d1117?style=flat-square&labelColor=30363d&color=161b22)
  
 </div>
@@ -116,11 +108,11 @@ Role-based authentication + REST APIs
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/munagalachandu">
-    <img src="https://img.shields.io/badge/Codeforces-munagalachandu8325?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/chandureddy8325">
+    <img src="https://img.shields.io/badge/Codeforces-chandureddy8325?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/munagalachandu">
+  <a href="https://www.codechef.com/users/chandureddy832">
     <img src="https://img.shields.io/badge/CodeChef-munagalachandu832?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -142,11 +134,11 @@ Role-based authentication + REST APIs
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/munagalachandu">
+  <a href="https://codeforces.com/profile/mchandureddy8325">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/munagalachandu">
+  <a href="https://www.codechef.com/users/chandureddy832">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
   </a>
 </p>
