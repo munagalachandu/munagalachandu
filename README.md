@@ -66,11 +66,11 @@ Role-based authentication + REST APIs
 
 | | Event | Result |
 |---|---|---|
-| 🏆 | Ingeium | Top 10 / 3700+ teams |
+| 🎯 | GATE CS | Qualified |
+| 🏆 | Ingenium'26 | Best innovative Project, Top 10/3700+ |
 | 🥈 | Udaya'25 — Healthcare | 2nd Place |
 | 🥈 | Hacktopus'25 | 2nd Place |
 | 🏆 | CodeRed'25 | Top 50 / 2500+ teams |
-| 🎯 | GATE CS | Qualified |
 | 🎖️ | Mumbai Hacks · AmBITion · Hackademia | Finalist |
 
 
