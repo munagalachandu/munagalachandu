@@ -69,6 +69,7 @@ Role-based authentication + REST APIs
 
 | | Event | Result |
 |---|---|---|
+| 🧧 | ACM Summer School | IISc Blr|
 | 🎯 | GATE CS'26 | Qualified |
 | 🏆 | Ingenium'26 | Best innovative Project, Top 10/3700+ |
 | 🥈 | Udaya'25 — Healthcare | 2nd Place |
